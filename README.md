@@ -1,7 +1,7 @@
-![Travis status](https://travis-ci.org/flightwallet/kassa.svg?branch=master)
+![Travis status](https://travis-ci.org/flightwallet/coffee.svg?branch=master)
 
-# kassa
-Generate invoices for the [flight.wallet](https://flightwallet.org) app.
+# :coffee:
+Buy some virtual coffee. We accept crypto and [flight.wallet](https://flightwallet.org) app :wink:.
 
 # Install
 
